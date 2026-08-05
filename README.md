@@ -128,7 +128,7 @@ The dashboard below was developed in **Power BI** to visualize fitness lifestyle
 
 **Manas Chatufale**
 
-- LinkedIn: https://www.linkedin.com/in/manaschatufale/
+- LinkedIn: https://www.linkedin.com/in/manas-chatufale/
 - GitHub: https://github.com/Manasc-20
 
 ---
