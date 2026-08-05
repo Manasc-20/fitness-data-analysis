@@ -105,10 +105,13 @@ The Power BI dashboard includes:
 
 ## 📷 Dashboard Preview
 
-> *(Add a screenshot of your Power BI dashboard here after exporting it.)*
+The dashboard below was developed in **Power BI** to visualize fitness lifestyle trends and explore how sleep duration, diet, and workout habits influence workout consistency. Interactive slicers allow users to filter insights by **Age Group**, **Sleep Hours**, and **Diet Type**.
 
-![Dashboard Preview](images/dashboard.png)
+<p align="center">
+  <img src="image/dashboard.png" alt="Fitness Lifestyle Analysis Dashboard" width="100%">
+</p>
 
+*Interactive Power BI dashboard showcasing workout frequency, sleep patterns, diet distribution, age groups, and key lifestyle insights.*
 ---
 
 ## 🚀 Future Improvements
